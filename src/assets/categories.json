@@ -1,0 +1,44 @@
+  {
+		"Category": [
+			{
+				"CategoryId": "1",
+				"CategoryName": "Beverages",
+				"SeoUrl": "beverages"
+			},
+			{
+				"CategoryId": "2",
+				"CategoryName": "Condiments",
+				"SeoUrl": "condiments"
+			},
+			{
+				"CategoryId": "3",
+				"CategoryName": "Confections",
+				"SeoUrl": "confections"
+			},
+			{
+				"CategoryId": "4",
+				"CategoryName": "Dairy Products",
+				"SeoUrl": "dairy-products"
+			},
+			{
+				"CategoryId": "5",
+				"CategoryName": "Grains/Cereals",
+				"SeoUrl": "grains-cereals"
+			},
+			{
+				"CategoryId": "6",
+				"CategoryName": "Meat/Poultry",
+				"SeoUrl": "meat-poultry"
+			},
+			{
+				"CategoryId": "7",
+				"CategoryName": "Produce",
+				"SeoUrl": "produce"
+			},
+			{
+				"CategoryId": "8",
+				"CategoryName": "Seafood",
+				"SeoUrl": "seafood"
+			}
+		]
+	} 
